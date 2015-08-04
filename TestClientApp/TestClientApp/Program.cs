@@ -18,6 +18,7 @@ namespace TestClientApp
             Application.SetCompatibleTextRenderingDefault(false);
             //hi..
             //by monika
+
             Application.Run(new Form1());
         }
     }
