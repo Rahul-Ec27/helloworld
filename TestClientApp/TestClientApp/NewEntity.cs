@@ -8,5 +8,6 @@ namespace TestClientApp
 {
     class NewEntity
     {
+        public int MyProperty { get; set; }
     }
 }
