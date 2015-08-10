@@ -16,12 +16,8 @@ namespace TestClientApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //hi..
-            //by monika
-            //test again..
-
-            //another
-            //testing
+            
+            //this is crap
             Application.Run(new Form1());
         }
     }
